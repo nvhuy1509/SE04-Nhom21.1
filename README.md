@@ -128,7 +128,7 @@ Thực hiện cài đặt, chạy thử một JVM đơn giản được phát tr
     
     ##### Nguyễn Văn Huy:
     - Thực hiện cài đặt mã nguồn AJVM
-    - Tìm hiểu thêm về JVM theo các nguồn khác bài báo
+    -  Tìm hiểu và dịch bài báo 
 
 ## :large_blue_diamond: **Tổng kết** 
 Sau quá trình không ngừng nghỉ tìm kiếm, nghiên cứu các nguồn tài liệu cùng với sự giúp đỡ của thầy Bùi Sỹ Nguyên, nhóm đã trau dồi, bổ sung thêm được một lượng lớn kiến thức về:
